@@ -7,7 +7,7 @@ import { Courses } from './courses';
   templateUrl: './course-info.component.html'
 })
 
-export class CourseInfo implements OnInit {
+export class CourseInfoComponent implements OnInit {
 
   course: Courses
 
